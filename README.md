@@ -1,1 +1,1 @@
-# 5-bitAdder
+# 5-bitAdder in VERILOG
